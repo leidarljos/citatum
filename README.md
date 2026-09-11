@@ -26,4 +26,4 @@ Product marks stay in their trees. packset and claimdag already use the pin. dee
 
 ## GitHub
 
-This repository is the family page. The four crates stay where they are until an `accession` organization exists and they move. Creating that organization is a click, not a commit.
+This repository is the family page. The GitHub organization is [indynull](https://github.com/indynull). It already exists and already holds deedar. `accession` is a user. `citatum` is reserved on the org-create form even though `/users/citatum` 404s. Do not open a second org.
