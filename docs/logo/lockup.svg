@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 220" role="img" aria-label="accession">
+  <rect width="820" height="220" fill="#0B0B0A"/>
+  <g transform="translate(18 10)">
+    <svg width="200" height="200" viewBox="0 0 200 200">
+      <rect width="200" height="200" rx="36" fill="#0B0B0A" stroke="#F4F0E6" stroke-width="4"/>
+      <circle cx="100" cy="78" r="28" fill="#E6A23C"/>
+      <circle cx="100" cy="78" r="14" fill="#0B0B0A" opacity="0.18"/>
+      <rect x="94" y="78" width="12" height="72" rx="6" fill="#E6A23C"/>
+    </svg>
+  </g>
+  <text x="250" y="138" font-family="Iowan Old Style, Palatino Linotype, Palatino, Charter, serif" font-size="78" font-weight="600" fill="#F4F0E6" letter-spacing="-1.2">accession</text>
+</svg>
