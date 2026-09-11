@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="docs/logo/icon.svg" width="120" height="120" alt="accession: a gold pin">
+  <img src="docs/logo/icon.svg" width="120" height="120" alt="citatum: a gold pin">
 </p>
 
-# accession
+# citatum
 
 **Citation is not a merge.** One identifier joins four stores.
 
