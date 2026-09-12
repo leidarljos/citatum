@@ -6,18 +6,18 @@
 
 **Citation is not a merge.** One identifier joins four stores.
 
-| Store | Question | Write |
-|---|---|---|
-| [packset](https://github.com/leidarljos/packset) | What does this seat know, standing? | `Remember:` / `Prefer:` only |
-| [deedar](https://github.com/indynull/deedar) | What did this unit produce? | Frozen bytes. `deedar evidence` / `deedar current` |
-| [vissue](https://github.com/leidarljos/vissue) | What does this node stand on, and who agrees? | Graph. A deed citation, not a paste |
-| [claimdag](https://github.com/leidarljos/claimdag) | What is this session handing out? | `claim` / `complete`. Completing does not close a ticket |
+| Store | Question | Write | Docs |
+|---|---|---|---|
+| [packset](https://github.com/leidarljos/packset) | What does this seat know, standing? | `Remember:` / `Prefer:` only | [site](https://leidarljos.github.io/packset/) |
+| [deedar](https://github.com/leidarljos/deedar) | What did this unit produce? | Frozen bytes. `deedar evidence` / `deedar current` | [site](https://leidarljos.github.io/deedar/) |
+| [vissue](https://github.com/leidarljos/vissue) | What does this node stand on, and who agrees? | Graph. A deed citation, not a paste | [site](https://vissue.rgoswami.me) |
+| [claimdag](https://github.com/leidarljos/claimdag) | What is this session handing out? | `claim` / `complete`. Completing does not close a ticket | [site](https://leidarljos.github.io/claimdag/) |
 
 The identifier is an **accession**: `deed-…` or `sha256:`.
 
 ## The seat
 
-[ljos](https://github.com/leidarljos/ljos) is one seat over the four, as a CLI and an MCP server. It owns none of them. Three loops run through it:
+[ljos](https://github.com/leidarljos/ljos) is one seat over the four, as a CLI and an MCP server. It owns none of them. The handbook is its [site](https://leidarljos.github.io/ljos/): one tutorial runs all three loops on scratch stores. The settle is [consensus](https://leidarljos.github.io/consensus/). Three loops run through the seat:
 
 | Loop | Verbs |
 |---|---|
