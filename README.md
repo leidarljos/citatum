@@ -15,6 +15,18 @@
 
 The identifier is an **accession**: `deed-…` or `sha256:`.
 
+## The seat
+
+[ljos](https://github.com/leidarljos/ljos) is one seat over the four, as a CLI and an MCP server. It owns none of them. Three loops run through it:
+
+| Loop | Verbs |
+|---|---|
+| Memory | `remember` / `prefer` write; `due` lists what the review clock has reached; `graded` reschedules it |
+| Agreement | `vote`; `consensus` settles over the pack's `trust` rows ([consensus](https://github.com/leidarljos/consensus), DeGroot or Friedkin-Johnsen); `learn` reweighs voters by what turned out right |
+| Handover | `handover` packs a satchel, the atoms, and the deeds both cite; `receive` checks it and imports the atoms |
+
+Trust is memory: a `trust` atom is one weighted edge, with a validity window, and it travels in a handover.
+
 Site: [leidarljos.github.io](https://leidarljos.github.io) · org: [leidarljos](https://github.com/leidarljos)
 
 ## Mark
